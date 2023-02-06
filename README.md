@@ -26,7 +26,7 @@ a data analysis and visualization on sea level using seaborn, created as part of
 - [Mortality](https://github.com/Embruh69/datavizpersonalprojects/blob/main/mortality.ipynb)
 a simple data mining job, created in the goal of making a dataframe that will be used in tableau, you can check out the finished TableAU chart [here](https://public.tableau.com/views/TheInvisibleEnemyanoverviewofsuicideandtheirnumbers/Dashboard1?:language=en-US)
 
-- [Sentiment](https://github.com/Embruh69/datavizpersonalprojects/blob/main/machine%20learning.ipynb)
+- [Sentiment](https://github.com/Embruh69/datavizpersonalprojects/blob/main/sentiment.ipynb)
 a data mining, and sentiment analysis job. using twitter & steam review data to find out how people's opinion towards the game Battlefield 2042 has changed troughout the years.
 
 # External Visualization
