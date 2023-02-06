@@ -23,5 +23,7 @@ a data analysis and visualization on sea level using seaborn, created as part of
 
 # Data Mining
 - [Mortality](https://github.com/Embruh69/datavizpersonalprojects/blob/main/mortality.ipynb)
-a simple data mining job, created in the goal of making a dataframe that will be used in tableau
+a simple data mining job, created in the goal of making a dataframe that will be used in tableau, you can check out the finished TableAU chart [here](https://public.tableau.com/views/TheInvisibleEnemyanoverviewofsuicideandtheirnumbers/Dashboard1?:language=en-US)
 
+# External Visualization
+You can check out my other visualizations in my TableAU public profile [here](https://public.tableau.com/app/profile/leonard.aldo)
