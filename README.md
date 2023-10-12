@@ -32,6 +32,8 @@ a data mining, and sentiment analysis job. using twitter & steam review data to 
 # Data Science
 - [Stroke Predictor](https://github.com/Embruh69/stroke-predictor-ANN-LogReg)
 a data science project that aims to predict the probability and risk of someone getting a stroke. this project uses the neural network and logistic reggression algorithm to predict the needed values, you can see the finished application [here](https://embruh69-stroke-predictor-ann-logreg-deployment-xx98cx.streamlit.app/), you can also read the paper [here](https://github.com/Embruh69/stroke-predictor-ANN-LogReg/blob/main/NamaMahasiswa_NIM_IS411_B_UAS.pdf)
+- [Clickbait Title Detector](https://github.com/Embruh69/clickbait-detector)
+this app can be used to predict whether or not a video title is clickbait or not using an RNN model, the model classificate video titles to "Clickbait" or "Not Clickbait" with 80% accuracy, the deployed app can be used [here](https://youtube-clickbait-detector.streamlit.app). 
 
 # External Visualization
 You can check out my other visualizations in my TableAU public profile [here](https://public.tableau.com/app/profile/leonard.aldo)
